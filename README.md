@@ -10,3 +10,5 @@ Maven
 Insomnia
 
 Projeot utiliza como tecnologia o Spring Boot 3, sendo a última versão disponibilizada pelo framework, o Java 17 sendo a última versão LTS (Long-term support, em português "Suporte de longo prazo") que possui maior tempo de suporte disponível para o Java.
+
+Projeto Feito por Felipe Matos de Lima
